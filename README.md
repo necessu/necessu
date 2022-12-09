@@ -1,4 +1,3 @@
-### Hi there 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&size=30&pause=1000&color=F7EF49A7&center=true&width=435&lines=nulla+dies+sine+linea" alt="Typing SVG" /></a>
 <!--
 **necessu/necessu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
