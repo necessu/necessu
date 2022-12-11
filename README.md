@@ -1,5 +1,5 @@
 <p align="center>
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display+SC&size=30&duration=10000&pause=30000&color=F7EF49A7&center=true&width=435&lines=nulla+dies+sine+linea" alt="Typing SVG" /></a>
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&size=30&duration=10000&pause=30000&color=F7EF49A7&center=true&width=435&lines=nulla+dies+sine+linea" alt="Typing SVG" /></a>
 </p>
 <!--
 **necessu/necessu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
